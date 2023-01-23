@@ -1,0 +1,12 @@
+[submodule "Hyperledger-Fabric_Simple-Network"]
+	path = Hyperledger-Fabric_Simple-Network
+	url = https://github.com/rajan-31/Hyperledger-Fabric_Simple-Network
+[submodule "HF-Real_Estate_Tx-Chaincode"]
+	path = HF-Real_Estate_Tx-Chaincode
+	url = https://github.com/rajan-31/HF-Real_Estate_Tx-Chaincode
+[submodule "HF-Real_Estate_Tx-Web"]
+	path = HF-Real_Estate_Tx-Web
+	url = https://github.com/rajan-31/HF-Real_Estate_Tx-Web
+[submodule "Hyperledger-Fabric_Simple-Explorer"]
+	path = Hyperledger-Fabric_Simple-Explorer
+	url = https://github.com/rajan-31/Hyperledger-Fabric_Simple-Explorer
